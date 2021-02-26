@@ -4,7 +4,11 @@
 
 JunWei is a Security Researcher from Taiwan. A paranoid Pythonista who focuses on cybersecurity, reverse engineering, and malware analysis. And as a PyCon Taiwan Program Committee, presented at Black Hat, DEFCON, HITB, ROOTCON, GrayHat, PyCon Europe/TW/KR/MY/IN. He’s the co-founder of Quark-Engine and a security research group, TWBGC.
 
-Google summer of code 2021 Mentor
+Google summer of code 2021 [Mentor](https://www.honeynet.org/gsoc/gsoc-2021/google-summer-of-code-2021-project-ideas#quark)
+
+[履歷 (Mandarin Version 中文版)](https://www.cakeresume.com/sungboss2004)
+
+[Resume (English Version 英文版)](https://github.com/krnick/notes/blob/master/CV.pdf)
 
 The projects I am currently working on:
 
