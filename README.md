@@ -7,7 +7,7 @@ JunWei is a malware researcher at Recorded Future Triage Sandbox. With a passion
 
 Outside of work, I spend time volunteering for the PyCon TW community. I have been a member of the Review Board since 2020 and served as the PyCon APAC 2022 Program Chair. Contributing to the community and helping to organize the PyCon Taiwan program committee is something I truly enjoy.
 
-Last but not least, I enjoy sharing my security and malware research through giving talks and have presented at various security conferences such as Black Hat Asia, DEFCON BTV, HITB, and ROOTCON.
+Also, I enjoy sharing my security and malware research through giving talks and have presented at various security conferences such as Black Hat Asia, DEFCON BTV, HITB, and ROOTCON.
 
 #### Open Source Community
 
