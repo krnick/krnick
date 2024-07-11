@@ -20,3 +20,7 @@ Also, I enjoy sharing my security and malware research through giving talks and 
 #### Talks
 
 - 🌱 [My Previous Talks](https://github.com/krnick/talks)
+
+#### Contact
+
+Feel free to drop me an email at `primmer-binge.0r@icloud.com` if you want to get in touch.
