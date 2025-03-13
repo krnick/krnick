@@ -11,7 +11,3 @@ JunWei is a malware researcher at Recorded Future Triage Sandbox, interested in 
 #### Talks
 
 - 🌱 [My Previous Talks](https://github.com/krnick/talks)
-
-#### Contact
-
-Feel free to drop me an email at `primmer-binge.0r@icloud.com` if you want to get in touch.
