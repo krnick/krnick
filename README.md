@@ -1,8 +1,3 @@
-
-### Hi there 👋
-
-#### Who am I
-
 JunWei is a malware researcher at Recorded Future Triage Sandbox, interested in the field of reverse engineering, malware analysis, threat intelligence, and developing tools to aid in malware analysis. He has been very involved in the security community, previously leading Quark-Engine and mentoring GSoC under the Honeynet Project. His research has been presented at various security conferences, including Black Hat Asia, DEFCON BTV, HITB, and ROOTCON.
 
 #### Open Source Community
