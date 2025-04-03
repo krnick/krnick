@@ -1,4 +1,4 @@
-JunWei is a malware researcher at Recorded Future Triage Sandbox, specializing in reverse engineering, malware analysis, threat intelligence, and developing tools to aid malware analysis. He has been very involved in the security community, previously leading Quark-Engine and mentoring GSoC under the Honeynet Project.
+JunWei is a malware researcher at Recorded Future Triage Sandbox, interested in the field of reverse engineering, malware analysis, threat intelligence, and developing tools to aid malware analysis. He has been very involved in the security community, previously leading Quark-Engine and mentoring GSoC under the Honeynet Project.
 
 Outside of work, I volunteer for the PyCon TW community. I have been a member of the Review Board since 2020 and served as the PyCon APAC 2022 Program Chair. I truly enjoy contributing to the community and helping to organize the PyCon Taiwan program committee.
 
